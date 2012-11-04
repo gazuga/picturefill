@@ -1,0 +1,31 @@
+{
+  "name": "picturefill",
+  "version": "0.1.0",
+  "description": "Adaptive images framework",
+  "keywords": [
+    "adaptive",
+    "image",
+    "mobile"
+  ],
+  "author": "Scott Jehl Filament Group",
+  "maintainers": [
+    "tomasz.gawron@gazuga.pl"
+  ],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/gazuga/picturefill.git"
+    }
+  ],
+  "engines": [
+    "node"
+  ],
+  "main": "./picturefill.js",
+  "ender": "./ender.js"
+}
+
